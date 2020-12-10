@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nastasia.
+My name is Nastasia Saby. I'm a machine learning engineer.
 
 A bit about me:
 
