@@ -10,3 +10,5 @@ A bit about me:
 - 🤔 I’m looking for help with Azure in general.
 - 💬 Ask me about machine learning in production.
 - 📫 How to reach me: https://twitter.com/saby_nastasia
+- 👀 Here is my blog: https://mlinreallife.github.io/
+- ✉️ Here is my newsletter about data science in real life and machine learning in production: https://mlinreallife.github.io/newsletter/
