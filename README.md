@@ -2,9 +2,6 @@
 
 My name is Nastasia.
 
-<!--
-**NastasiaSaby/NastasiaSaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 A bit about me:
 
 - 🔭 I’m currently working on machine learning engineering.
@@ -13,4 +10,3 @@ A bit about me:
 - 🤔 I’m looking for help with Azure in general.
 - 💬 Ask me about machine learning in production.
 - 📫 How to reach me: https://twitter.com/saby_nastasia
--->
