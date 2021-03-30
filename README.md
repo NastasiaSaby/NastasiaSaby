@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nastasia Saby. I'm a machine learning engineer and author.
+My name is Nastasia Saby. I'm a machine learning engineer and an author.
 
 A bit about me:
 
