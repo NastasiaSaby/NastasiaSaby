@@ -4,7 +4,7 @@ My name is Nastasia Saby. I'm a machine learning engineer and author.
 
 A bit about me:
 
-- 📙 I like writing. I've published a guide: https://leanpub.com/machinelearningenproduction
+- 📙 I like writing. I've published a guide about ML in production: https://leanpub.com/machinelearningenproduction
 - 🔭 I’m currently working on machine learning engineering.
 - 🌱 I’m currently learning Databricks platform's secrets.
 - 👯 I’m looking to collaborate on every subject around machine learning in real life.
